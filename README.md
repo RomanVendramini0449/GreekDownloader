@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/username/username/main/banner.png](https://i.imgur.com/pjha5cv.png%20)
+[![Banner]([[https://raw.githubusercontent.com/username/username/main/banner.png](https://i.imgur.com/pjha5cv.png%20](https://i.imgur.com/pjha5cv.png%20))]
 
 # GreekDownloader
 
