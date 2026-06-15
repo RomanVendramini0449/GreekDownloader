@@ -1,3 +1,5 @@
+![Banner]([https://raw.githubusercontent.com/username/username/main/banner.png](https://i.imgur.com/pjha5cv.png%20)
+
 # GreekDownloader
 
 Downloads a variety of content from the web, primarily YouTube videos.
@@ -11,8 +13,8 @@ It can also downloaad **Instagram** videos.
 - **Light / dark mode** toggle, remembered between sessions.
 - **Quick file access:** "Open download folder" link, or double-click a row to open its folder (or view the error).
 - **Tidy:** cancelling removes leftover `.part` files; remembers your save folder and format choice.
-
-
+##
+##
 ![GreekDownloader screenshot](https://i.imgur.com/nkI327O.png)
 
 ![GreekDownloader screenshot](https://i.imgur.com/NHxqADA.png)
