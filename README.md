@@ -10,9 +10,8 @@ It can also downloaad **Instagram** videos.
 - **Queue** multiple URLs at once, each with live progress (status, speed, ETA, size).
 - **Quality presets:** best, 1080p / 720p / 480p / 360p, or audio-only MP3.
 - **Clear error messages** with fix-it hints (missing ffmpeg, out-of-date yt-dlp, age-restricted video, network issues).
-- **Light / dark mode** toggle, remembered between sessions.
+- **Light / dark mode** toggle.
 - **Quick file access:** "Open download folder" link, or double-click a row to open its folder (or view the error).
-- **Tidy:** cancelling removes leftover `.part` files; remembers your save folder and format choice.
 ##
 ##
 ![GreekDownloader screenshot](https://i.imgur.com/nkI327O.png)
